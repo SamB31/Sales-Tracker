@@ -14,8 +14,11 @@ The Sales Frequency Analysis Tool is a C++ program that uses the "Search" class 
 ---- Key Features ----
 
   -Search for specific products to see how many were sold
+  
   -List all products and how many were sold
+  
   -Display a histogram of all sold items
+  
 
 ---- Areas of Strength ----
 
@@ -34,10 +37,16 @@ The most challenging part of the project was designing the "Search" class to par
 The Sales Frequency Analysis Tool project has helped me develop several transferable skills, including:
 
   -Data analysis and visualization
+  
   -Object-oriented programming
+  
   -User interface design
+  
   -Error handling and debugging
+  
   -Maintainability, Readability, and Adaptability
+  
   -To make the program maintainable, readable, and adaptable, 
+  
   
 I followed best practices for code organization and documentation. I used clear and concise variable names and function names, and I commented my code thoroughly to explain the purpose and functionality of each section. Additionally, I designed the program to be modular, so that individual functions can be updated or replaced as needed without affecting the overall functionality of the program.
